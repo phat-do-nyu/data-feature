@@ -16,9 +16,8 @@ For vegans and those who are curious, this tool allows you to check whether your
 3. Instructions:
   - Setup:
       - Ensure you have an internet connection.
-      - You'll need API keys for both TheCocktailDB and Edamam APIs:
-          - TheCocktailDB: Register for free here to get your API key.
-          - Edamam: Register for free here to get your API key and App ID.
+      - You'll need API key for Nutrition Analysis API (already included in our program):
+          - Edamam: Register for free here (https://developer.edamam.com) to get your API key and App ID.
   - How to Use the Feature:
       - When prompted, enter the name of your favorite cocktail (e.g., "Margarita").
       - The program will fetch the list of ingredients from TheCocktailDB API.
