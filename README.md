@@ -12,6 +12,7 @@ For vegans and those who are curious, this tool allows you to check whether your
     - URL: https://developer.edamam.com/edamam-docs-nutrition-api
     - Purpose: Checks the nutritional information of each ingredient and determines whether it is vegan.
     - Why Chosen: The Edamam API provides detailed ingredient analysis, including health labels (e.g., vegan, gluten-free), which allows us to determine the vegan status of each ingredient.
+
 3. Instructions:
   - Setup:
       - Ensure you have an internet connection.
